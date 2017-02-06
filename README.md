@@ -1,5 +1,6 @@
 # Simple-Script-For-Unzipping-File
 A simple Python script for unzipping file
+
 How to use:
 Linux/Macos:
 - Open terminal
